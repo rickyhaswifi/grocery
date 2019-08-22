@@ -18,11 +18,8 @@ BONUS
 √ A menu option that shows a history of all the items purchased. (While the script runs)
 
 Allow a user to remove multiple items at once from the cart.
-
 Grocery store items have a quantity. (They can be out of stock)
-
 wallet as a class 
-
 =end
 
 require 'colorize'
